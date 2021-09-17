@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Do math task",
+        "status": "Finished"
+    },
+    {
+        "title": "Clean my room",
+        "status": "In progress"
+    },
+    {
+        "title": "Make to-do list(digitalHouse)",
+        "status": "Pending"
+    }
+]
